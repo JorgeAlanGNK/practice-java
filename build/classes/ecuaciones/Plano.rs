@@ -1,0 +1,3 @@
+ecuaciones.Plano
+ecuaciones.lista_plano
+ecuaciones.nodo_plano
